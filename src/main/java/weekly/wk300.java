@@ -9,6 +9,8 @@ import java.util.Map;
 
 public class wk300 {
 
+    //ranking: 466 / 6792
+
     //简单题，注意空格和重复字符
     public String decodeMessage(String key, String message) {
         String replace = key.replace(" ", "");
