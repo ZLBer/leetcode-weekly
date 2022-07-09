@@ -1,7 +1,8 @@
 
 # Leetcode weekly 
+Record leetcode contest and ideas every week, and encourage yourself to think more. 
 
-Record leetcode contest and ideas every week, and encourage yourself to think more
+leetcode url: <https://leetcode.cn/u/cctest/>
 
 * ☀️ [weekly contest 300](src/main/java/weekly/wk300.java)     Hash Table | Simulation | DP | DP
 * ☔ [weekly contest 299](src/main/java/weekly/wk299.java)     Array |  DP | DP  | Enumeration + classification discussion
