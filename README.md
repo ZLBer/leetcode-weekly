@@ -3,8 +3,8 @@
 
 Record leetcode contest and ideas every week, and encourage yourself to think more
 
-* ☀️ [weekly contest 300](src/main/java/weekly/wk300.java) Hash Table | Simulation | DP | DP
-* ☔ [weekly contest 299](src/main/java/weekly/wk299.java)
+* ☀️ [weekly contest 300](src/main/java/weekly/wk300.java)     Hash Table | Simulation | DP | DP
+* ☔ [weekly contest 299](src/main/java/weekly/wk299.java)     Array |  DP | DP  | Enumeration + classification discussion
 * ☁️ [weekly contest 298](src/main/java/weekly/wk298.java) 
 * ❄️ [weekly contest 297](src/main/java/weekly/wk297.java)
 * ⛄ [weekly contest 296](src/main/java/weekly/wk296.java) 
