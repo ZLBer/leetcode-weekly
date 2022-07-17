@@ -4,6 +4,7 @@ Record leetcode contest and ideas every week, and encourage yourself to think mo
 
 leetcode url: <https://leetcode.cn/u/cctest/>
 
+* ☀️ [weekly contest 301](src/main/java/weekly/wk301.java)     Greegy |   Hash Table | Two Pointers|Dynamic Programming+Combinatorics
 * ☀️ [weekly contest 300](src/main/java/weekly/wk300.java)     Hash Table | Simulation | DP | DP
 * ☔ [weekly contest 299](src/main/java/weekly/wk299.java)     Array |  DP | DP  | Enumeration + classification discussion
 * ☁️ [weekly contest 298](src/main/java/weekly/wk298.java) 
@@ -17,7 +18,7 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 * 🐶 [weekly contest 290](src/main/java/weekly/wk290.java) 
 * 🐭 [weekly contest 280](src/main/java/weekly/wk289.java) 
 
-
+* 🐹 [biweekly contest 82](src/main/java/weekly/wkb82.java)   DFS | Greedy | Greedy| Monotonic Stack/Union Find
 * 🐹 [biweekly contest 81](src/main/java/weekly/wkb81.java) 
 * 🐰 [biweekly contest 80](src/main/java/weekly/wkb80.java)
 * 🐺 [biweekly contest 79](src/main/java/weekly/wkb79.java)

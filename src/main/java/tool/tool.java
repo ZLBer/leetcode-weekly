@@ -15,6 +15,22 @@ public class tool {
         return (int) ans;
     }
 
+
+    //预处理组合数
+    static final int MOD = (int) 1e9 + 7, MX = (int) 1e4 + 1, MX_K = 14;
+    static int[][] c = new int[MX + MX_K][MX_K + 1]; // 组合数
+
+
+    //预处理组合数
+    static {
+        c[0][0] = 1;
+        for (int i = 1; i < MX + MX_K; ++i) {
+            c[i][0] = 1;
+            for (int j = 1; j <= Math.min(i, MX_K); ++j)
+                c[i][j] = (c[i - 1][j] + c[i - 1][j - 1]) % MOD;
+        }
+    }
+
     long gcd(long a, long b) {
         while (b != 0) {
             long temp = a % b;
@@ -373,6 +389,7 @@ public class tool {
             root.sum = root.left.sum + root.right.sum;
         }
     }
+
     public class SegmentTreeNode {
         public int start, end;
         public int max, min, sum; // You can add additional attributes
