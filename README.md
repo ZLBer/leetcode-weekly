@@ -5,6 +5,8 @@ Record leetcode contest and ideas every week, and encourage yourself to think mo
 leetcode url: <https://leetcode.cn/u/cctest/>
 
 
+
+* ☁️ [weekly contest 303](src/main/java/weekly/wk303.java)     Array | Simulation | Heap (Priority Queue)|Binary Search
 * ☀️ [weekly contest 302](src/main/java/weekly/wk302.java)     Array |   Heap | Heap| Math GCD
 * ☀️ [weekly contest 301](src/main/java/weekly/wk301.java)     Greegy |   Hash Table | Two Pointers|Dynamic Programming+Combinatorics
 * ☀️ [weekly contest 300](src/main/java/weekly/wk300.java)     Hash Table | Simulation | DP | DP
