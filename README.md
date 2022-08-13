@@ -4,7 +4,7 @@ Record leetcode contest and ideas every week, and encourage yourself to think mo
 
 leetcode url: <https://leetcode.cn/u/cctest/>
 
-
+* 🐨 [weekly contest 305](src/main/java/weekly/wk305.java)     Array | Array | DP | DP
 * 🐍 [weekly contest 304](src/main/java/weekly/wk304.java)     Array | Array Greedy | Graph | Graph Topological Sort
 * ☁️ [weekly contest 303](src/main/java/weekly/wk303.java)     Array | Simulation | Heap (Priority Queue)|Binary Search
 * ☀️ [weekly contest 302](src/main/java/weekly/wk302.java)     Array |   Heap | Heap| Math GCD
@@ -31,7 +31,7 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 
 
 
-🐨 🐻 🐷 🐽 🐮 🐗 🐵 🐒 🐴 🐎 🐫 🐑 🐘 🐼 
+🐻 🐷 🐽 🐮 🐗 🐵 🐒 🐴 🐎 🐫 🐑 🐘 🐼 
 
 
 
