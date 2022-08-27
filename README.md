@@ -4,6 +4,7 @@ Record leetcode contest and ideas every week, and encourage yourself to think mo
 
 leetcode url: <https://leetcode.cn/u/cctest/>
 
+* 🐻 [weekly contest 307](src/main/java/weekly/wk307.java)     贪心 | 贪心 | 图  | 堆
 * 🐻 [weekly contest 306](src/main/java/weekly/wk306.java)     数组 | 有向图图 | 贪心、栈 | 数位DP
 * 🐨 [weekly contest 305](src/main/java/weekly/wk305.java)     Array | Array | DP | DP
 * 🐍 [weekly contest 304](src/main/java/weekly/wk304.java)     Array | Array Greedy | Graph | Graph Topological Sort
@@ -23,6 +24,7 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 * 🐶 [weekly contest 290](src/main/java/weekly/wk290.java) 
 * 🐭 [weekly contest 280](src/main/java/weekly/wk289.java) 
 
+* 🐹 [biweekly contest 85](src/main/java/weekly/wkb85.java)   滑动窗口 | 模拟 | 差分数组 | 并查集
 * 🐹 [biweekly contest 82](src/main/java/weekly/wkb82.java)   DFS | Greedy | Greedy| Monotonic Stack/Union Find
 * 🐹 [biweekly contest 81](src/main/java/weekly/wkb81.java) 
 * 🐰 [biweekly contest 80](src/main/java/weekly/wkb80.java)
