@@ -4,6 +4,8 @@ Record leetcode contest and ideas every week, and encourage yourself to think mo
 
 leetcode url: <https://leetcode.cn/u/cctest/>
 
+
+* 🐷 [weekly contest 308](src/main/java/weekly/wk308.java)     排序+前缀和 | 栈 | 贪心  | 拓扑排序
 * 🐻 [weekly contest 307](src/main/java/weekly/wk307.java)     贪心 | 贪心 | 图  | 堆
 * 🐻 [weekly contest 306](src/main/java/weekly/wk306.java)     数组 | 有向图图 | 贪心、栈 | 数位DP
 * 🐨 [weekly contest 305](src/main/java/weekly/wk305.java)     Array | Array | DP | DP
@@ -34,7 +36,7 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 
 
 
-🐷 🐽 🐮 🐗 🐵 🐒 🐴 🐎 🐫 🐑 🐘 🐼 
+ 🐽 🐮 🐗 🐵 🐒 🐴 🐎 🐫 🐑 🐘 🐼 
 
 
 
