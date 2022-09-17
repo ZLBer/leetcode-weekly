@@ -4,6 +4,7 @@ Record leetcode contest and ideas every week, and encourage yourself to think mo
 
 leetcode url: <https://leetcode.cn/u/cctest/>
 
+* 🐑 [weekly contest 310](src/main/java/weekly/wk310.java)     排序、hash表 | 贪心 | 贪心、差分数组 | 线段树+区间最大值
 * 🐼 [weekly contest 309](src/main/java/weekly/wk309.java)     数组 | DP/记忆化搜索 | 滑动窗口 | 双堆
 * 🐷 [weekly contest 308](src/main/java/weekly/wk308.java)     排序+前缀和 | 栈 | 贪心 | 拓扑排序
 * 🐻 [weekly contest 307](src/main/java/weekly/wk307.java)     贪心 | 贪心 | 图 | 堆
@@ -36,7 +37,7 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 * 🐸 [biweekly contest 78](src/main/java/weekly/wkb78.java)
 * 🐯 [biweekly contest 77](src/main/java/weekly/wkb77.java)
 
-🐽 🐮 🐗 🐵 🐒 🐴 🐎 🐫 🐑   
+🐽 🐮 🐗 🐵 🐒 🐴 🐎 🐫    
 
 
 
