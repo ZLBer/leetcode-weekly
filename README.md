@@ -4,6 +4,7 @@ Record leetcode contest and ideas every week, and encourage yourself to think mo
 
 leetcode url: <https://leetcode.cn/u/cctest/>
 
+* 🐑 [weekly contest 311](src/main/java/weekly/wk311.java)     规律 | 滑动窗口 | 层序遍历 | 字典树
 * 🐑 [weekly contest 310](src/main/java/weekly/wk310.java)     排序、hash表 | 贪心 | 贪心、差分数组 | 线段树+区间最大值
 * 🐼 [weekly contest 309](src/main/java/weekly/wk309.java)     数组 | DP/记忆化搜索 | 滑动窗口 | 双堆
 * 🐷 [weekly contest 308](src/main/java/weekly/wk308.java)     排序+前缀和 | 栈 | 贪心 | 拓扑排序
@@ -28,6 +29,7 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 * 🐶 [weekly contest 290](src/main/java/weekly/wk290.java)
 * 🐭 [weekly contest 280](src/main/java/weekly/wk289.java)
 
+* 🐘 [biweekly contest 87](src/main/java/weekly/wkb87.java)   模拟 | 双指针 | 位运算 | 贪心
 * 🐘 [biweekly contest 86](src/main/java/weekly/wkb86.java)   数组 | 脑筋急转弯 | 位运算 | 滑动窗口+单调队列
 * 🐹 [biweekly contest 85](src/main/java/weekly/wkb85.java)   滑动窗口 | 模拟 | 差分数组 | 并查集
 * 🐹 [biweekly contest 82](src/main/java/weekly/wkb82.java)   DFS | Greedy | Greedy| Monotonic Stack/Union Find
