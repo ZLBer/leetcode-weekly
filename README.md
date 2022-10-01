@@ -4,6 +4,7 @@ Record leetcode contest and ideas every week, and encourage yourself to think mo
 
 leetcode url: <https://leetcode.cn/u/cctest/>
 
+* 🐑 [weekly contest 311](src/main/java/weekly/wk311.java)     排序 | 脑筋急转弯 | 前缀和 | 并查集
 * 🐑 [weekly contest 311](src/main/java/weekly/wk311.java)     规律 | 滑动窗口 | 层序遍历 | 字典树
 * 🐑 [weekly contest 310](src/main/java/weekly/wk310.java)     排序、hash表 | 贪心 | 贪心、差分数组 | 线段树+区间最大值
 * 🐼 [weekly contest 309](src/main/java/weekly/wk309.java)     数组 | DP/记忆化搜索 | 滑动窗口 | 双堆
