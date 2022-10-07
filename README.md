@@ -30,6 +30,7 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 * 🐶 [weekly contest 290](src/main/java/weekly/wk290.java)
 * 🐭 [weekly contest 280](src/main/java/weekly/wk289.java)
 
+* 🐘 [biweekly contest 87](src/main/java/weekly/wkb88.java)   模拟 | 指针 | 脑筋急转弯 | 线段树
 * 🐘 [biweekly contest 87](src/main/java/weekly/wkb87.java)   模拟 | 双指针 | 位运算 | 贪心
 * 🐘 [biweekly contest 86](src/main/java/weekly/wkb86.java)   数组 | 脑筋急转弯 | 位运算 | 滑动窗口+单调队列
 * 🐹 [biweekly contest 85](src/main/java/weekly/wkb85.java)   滑动窗口 | 模拟 | 差分数组 | 并查集
