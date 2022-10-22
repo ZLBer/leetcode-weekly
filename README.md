@@ -4,6 +4,7 @@ Record leetcode contest and ideas every week, and encourage yourself to think mo
 
 leetcode url: <https://leetcode.cn/u/cctest/>
 
+* ☀️ [weekly contest 315](src/main/java/weekly/wk315.java)     Hash表 | Hash表 | 暴力 | 双指针
 * 🐼 [weekly contest 314](src/main/java/weekly/wk312.java)     数组 | 异或运算 | 贪心+栈 | DP
 * 🐑 [weekly contest 312](src/main/java/weekly/wk312.java)     排序 | 脑筋急转弯 | 前缀和 | 并查集
 * 🐑 [weekly contest 311](src/main/java/weekly/wk311.java)     规律 | 滑动窗口 | 层序遍历 | 字典树
@@ -31,7 +32,8 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 * 🐶 [weekly contest 290](src/main/java/weekly/wk290.java)
 * 🐭 [weekly contest 280](src/main/java/weekly/wk289.java)
 
-* 🐘 [biweekly contest 87](src/main/java/weekly/wkb88.java)   模拟 | 指针 | 脑筋急转弯 | 线段树
+* 🐸 [biweekly contest 89](src/main/java/weekly/wkb89.java)   判断 | 前缀和 | 贪心、二分 | 枚举+DFS
+* 🐘 [biweekly contest 88](src/main/java/weekly/wkb88.java)   模拟 | 指针 | 脑筋急转弯 | 线段树
 * 🐘 [biweekly contest 87](src/main/java/weekly/wkb87.java)   模拟 | 双指针 | 位运算 | 贪心
 * 🐘 [biweekly contest 86](src/main/java/weekly/wkb86.java)   数组 | 脑筋急转弯 | 位运算 | 滑动窗口+单调队列
 * 🐹 [biweekly contest 85](src/main/java/weekly/wkb85.java)   滑动窗口 | 模拟 | 差分数组 | 并查集
