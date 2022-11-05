@@ -1,6 +1,7 @@
 package weekly;
 
 import java.util.ArrayList;
+import java.util.Deque;
 import java.util.HashMap;
 import java.util.HashSet;
 import java.util.LinkedList;
@@ -106,7 +107,7 @@ public class wk317 {
     //树形dp
     //先计算每个节点的深度
     //然后dfs计算每个节点删除后的树高度，max(右节点的深度+遍历深度，删除父节点的高度)
-    public int[] treeQueries(TreeNode root, int[] queries) {
+   /* public int[] treeQueries(TreeNode root, int[] queries) {
         dfs(root);
         checkMust(root, 0, 0);
         for (int i = 0; i < queries.length; i++) {
@@ -134,6 +135,40 @@ public class wk317 {
         checkMust(parent.left, Math.max(rest, ints[0] + up), up + 1);
         ints = map.getOrDefault(parent.left != null ? parent.left.val : -1, new int[]{0});
         checkMust(parent.right, Math.max(rest, ints[0] + up), up + 1);
+    }*/
+
+    List<Integer> Depths = new ArrayList<>();
+    Map<Integer, Integer> number = new HashMap<>();
+    Map<Integer, Integer> map = new HashMap<>();
+
+    //DFS序
+    public int[] treeQueries(TreeNode root, int[] queries) {
+        dfs(root, 0);
+        int[] L = new int[Depths.size() + 1];
+        int[] R = new int[Depths.size() + 1];
+        for (int i = 0; i < Depths.size(); i++) {
+            L[i + 1] = Math.max(L[i], Depths.get(i));
+        }
+        for (int i = Depths.size() - 1; i >= 0; i--) {
+            R[i] = Math.max(R[i + 1], Depths.get(i));
+        }
+        for (int i = 0; i < queries.length; i++) {
+            int len=map.get(queries[i]);
+            int begin=number.get(queries[i]);
+            queries[i] = Math.max(L[begin], R[begin+len+1]);
+        }
+        return queries;
+    }
+
+    void dfs(TreeNode node, int depth) {
+        if (node == null) return;
+        Depths.add(depth);
+        int before = Depths.size();
+        number.put(node.val, Depths.size() - 1);
+        dfs(node.left, depth + 1);
+        dfs(node.right, depth + 1);
+        int after = Depths.size();
+        map.put(node.val, after - before);
     }
 
 }
