@@ -4,6 +4,7 @@ Record leetcode contest and ideas every week, and encourage yourself to think mo
 
 leetcode url: <https://leetcode.cn/u/cctest/>
 
+* ☀️ [weekly contest 318](src/main/java/weekly/wk318.java)     模拟 | 滑动窗口 | 双指针 | DP
 * ☀️ [weekly contest 317](src/main/java/weekly/wk317.java)     数组 | hash | 贪心+模拟 | 树形DP
 * ☀️ [weekly contest 316](src/main/java/weekly/wk316.java)     模拟 | gcd | 前缀和 | 分情况
 * ☀️ [weekly contest 315](src/main/java/weekly/wk315.java)     Hash表 | Hash表 | 暴力 | 双指针
