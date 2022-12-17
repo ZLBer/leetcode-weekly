@@ -5,6 +5,7 @@ Record leetcode contest and ideas every week, and encourage yourself to think mo
 leetcode url: <https://leetcode.cn/u/cctest/>
 
 
+* 🐎️ [weekly contest 323](src/main/java/weekly/wk323.java)     排序 | 哈希 | 模拟 | 最小堆、Dijkstra最短路径
 * 🐎️ [weekly contest 322](src/main/java/weekly/wk322.java)     遍历 | 排序 | BFS | 二分图+BFS
 * ☀️ [weekly contest 320](src/main/java/weekly/wk320.java)     模拟 | DFS | 贪心 | DP
 * ☀️ [weekly contest 319](src/main/java/weekly/wk319.java)     模拟 | 暴力 | 置换环 | DP
@@ -39,8 +40,8 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 * 🐶 [weekly contest 290](src/main/java/weekly/wk290.java)
 * 🐭 [weekly contest 280](src/main/java/weekly/wk289.java)
 
-
-* 🐸 [biweekly contest 91](src/main/java/weekly/wkb91.java)   排序 | DO | DFS | 找规律
+* 🐸 [biweekly contest 92](src/main/java/weekly/wkb93.java)   数组 | 排序 | 贪心 | 贪心
+* 🐸 [biweekly contest 91](src/main/java/weekly/wkb91.java)   排序 | DP | DFS | 找规律
 * 🐸 [biweekly contest 90](src/main/java/weekly/wkb90.java)   hash | 遍历 | 分组求余 | 单调栈+优先队列
 * 🐸 [biweekly contest 89](src/main/java/weekly/wkb89.java)   判断 | 前缀和 | 贪心、二分 | 枚举+DFS
 * 🐘 [biweekly contest 88](src/main/java/weekly/wkb88.java)   模拟 | 指针 | 脑筋急转弯 | 线段树
