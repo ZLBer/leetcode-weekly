@@ -4,6 +4,7 @@ Record leetcode contest and ideas every week, and encourage yourself to think mo
 
 leetcode url: <https://leetcode.cn/u/cctest/>
 
+* 🐎️ [weekly contest 328](src/main/java/weekly/wk328.java)     变绿 | 二维差分数组 | 滑动窗口 | 树形DP
 * 🐎️ [weekly contest 327](src/main/java/weekly/wk327.java)     模拟 | 优先队列 | 技术 | 模拟+优先队列
 * 🐎️ [weekly contest 325](src/main/java/weekly/wk325.java)     数学 | 数学 | 动态规划 | 数学
 * 🐎️ [weekly contest 324](src/main/java/weekly/wk324.java)     位运算 | 数学 | 图 | 完全二叉树性质
