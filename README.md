@@ -4,7 +4,9 @@ Record leetcode contest and ideas every week, and encourage yourself to think mo
 
 leetcode url: <https://leetcode.cn/u/cctest/>
 
-* 🐎️ [weekly contest 328](src/main/java/weekly/wk328.java)     变绿 | 二维差分数组 | 滑动窗口 | 树形DP
+
+* 🐎️ [weekly contest 331](src/main/java/weekly/wk331.java)     优先队列 | 前缀和 | 二分 | 贪心
+* 🐎️ [weekly contest 328](src/main/java/weekly/wk328.java)     遍历 | 二维差分数组 | 滑动窗口 | 树形DP
 * 🐎️ [weekly contest 327](src/main/java/weekly/wk327.java)     模拟 | 优先队列 | 技术 | 模拟+优先队列
 * 🐎️ [weekly contest 325](src/main/java/weekly/wk325.java)     数学 | 数学 | 动态规划 | 数学
 * 🐎️ [weekly contest 324](src/main/java/weekly/wk324.java)     位运算 | 数学 | 图 | 完全二叉树性质
@@ -43,6 +45,7 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 * 🐶 [weekly contest 290](src/main/java/weekly/wk290.java)
 * 🐭 [weekly contest 280](src/main/java/weekly/wk289.java)
 
+* 🐸 [biweekly contest 97](src/main/java/weekly/wkb97.java)   模拟 | 哈希 | 滑动窗口 | DFS
 * 🐸 [biweekly contest 92](src/main/java/weekly/wkb93.java)   数组 | 排序 | 贪心 | 贪心
 * 🐸 [biweekly contest 91](src/main/java/weekly/wkb91.java)   排序 | DP | DFS | 找规律
 * 🐸 [biweekly contest 90](src/main/java/weekly/wkb90.java)   hash | 遍历 | 分组求余 | 单调栈+优先队列
