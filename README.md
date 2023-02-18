@@ -5,6 +5,8 @@ Record leetcode contest and ideas every week, and encourage yourself to think mo
 leetcode url: <https://leetcode.cn/u/cctest/>
 
 
+
+* 🐎️ [weekly contest 332](src/main/java/weekly/wk332.java)     模拟 | 二分 | 哈希 | 前缀和
 * 🐎️ [weekly contest 331](src/main/java/weekly/wk331.java)     优先队列 | 前缀和 | 二分 | 贪心
 * 🐎️ [weekly contest 328](src/main/java/weekly/wk328.java)     遍历 | 二维差分数组 | 滑动窗口 | 树形DP
 * 🐎️ [weekly contest 327](src/main/java/weekly/wk327.java)     模拟 | 优先队列 | 技术 | 模拟+优先队列
