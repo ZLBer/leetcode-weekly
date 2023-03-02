@@ -6,6 +6,7 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 
 
 
+* 🐎️ [weekly contest 333](src/main/java/weekly/wk333.java)     
 * 🐎️ [weekly contest 332](src/main/java/weekly/wk332.java)     模拟 | 二分 | 哈希 | 前缀和
 * 🐎️ [weekly contest 331](src/main/java/weekly/wk331.java)     优先队列 | 前缀和 | 二分 | 贪心
 * 🐎️ [weekly contest 328](src/main/java/weekly/wk328.java)     遍历 | 二维差分数组 | 滑动窗口 | 树形DP
@@ -47,6 +48,7 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 * 🐶 [weekly contest 290](src/main/java/weekly/wk290.java)
 * 🐭 [weekly contest 280](src/main/java/weekly/wk289.java)
 
+* 🐸 [biweekly contest 98](src/main/java/weekly/wkb98.java)   
 * 🐸 [biweekly contest 97](src/main/java/weekly/wkb97.java)   模拟 | 哈希 | 滑动窗口 | DFS
 * 🐸 [biweekly contest 92](src/main/java/weekly/wkb93.java)   数组 | 排序 | 贪心 | 贪心
 * 🐸 [biweekly contest 91](src/main/java/weekly/wkb91.java)   排序 | DP | DFS | 找规律
