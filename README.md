@@ -6,6 +6,7 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 
 
 
+* 🐎️ [weekly contest 334](src/main/java/weekly/wk334.java)     前缀和 | 取模 | 贪心 | Dijkstra
 * 🐎️ [weekly contest 333](src/main/java/weekly/wk333.java)     
 * 🐎️ [weekly contest 332](src/main/java/weekly/wk332.java)     模拟 | 二分 | 哈希 | 前缀和
 * 🐎️ [weekly contest 331](src/main/java/weekly/wk331.java)     优先队列 | 前缀和 | 二分 | 贪心
