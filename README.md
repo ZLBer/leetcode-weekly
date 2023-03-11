@@ -6,6 +6,7 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 
 
 
+* 🐎️ [weekly contest 335](src/main/java/weekly/wk335.java)     模拟 | 层序遍历 | 质数分解 | 多重背包
 * 🐎️ [weekly contest 334](src/main/java/weekly/wk334.java)     前缀和 | 取模 | 贪心 | Dijkstra
 * 🐎️ [weekly contest 333](src/main/java/weekly/wk333.java)     
 * 🐎️ [weekly contest 332](src/main/java/weekly/wk332.java)     模拟 | 二分 | 哈希 | 前缀和
@@ -49,6 +50,7 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 * 🐶 [weekly contest 290](src/main/java/weekly/wk290.java)
 * 🐭 [weekly contest 280](src/main/java/weekly/wk289.java)
 
+* 🐸 [biweekly contest 99](src/main/java/weekly/wkb99.java)   贪心 | 递推 | 区间合并 | 换根DP
 * 🐸 [biweekly contest 98](src/main/java/weekly/wkb98.java)   
 * 🐸 [biweekly contest 97](src/main/java/weekly/wkb97.java)   模拟 | 哈希 | 滑动窗口 | DFS
 * 🐸 [biweekly contest 92](src/main/java/weekly/wkb93.java)   数组 | 排序 | 贪心 | 贪心
