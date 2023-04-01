@@ -5,6 +5,8 @@ Record leetcode contest and ideas every week, and encourage yourself to think mo
 leetcode url: <https://leetcode.cn/u/cctest/>
 
 
+
+* ☀️ [weekly contest 338](src/main/java/weekly/wk338.java)     贪心 | 谈心 | 前缀和+二分 | 拓扑排序
 * ☀️ [weekly contest 337](src/main/java/weekly/wk337.java)     模拟 | 模拟 | 回溯 | 同余分组
 * 🐎️ [weekly contest 336](src/main/java/weekly/wk336.java)     模拟 | 排序 | 异或前缀和 | 贪心
 * 🐎️ [weekly contest 335](src/main/java/weekly/wk335.java)     模拟 | 层序遍历 | 质数分解 | 多重背包
