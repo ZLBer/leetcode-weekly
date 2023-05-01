@@ -6,6 +6,8 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 
 
 
+* ☀️ [weekly contest 341](src/main/java/weekly/wk341.java)     模拟 | 美剧 | 贪心 | 树形dp
+* ☀️ [weekly contest 340](src/main/java/weekly/wk340.java)     模拟 | 哈希 | 贪心 | bfs+优化
 * ☀️ [weekly contest 339](src/main/java/weekly/wk339.java)     模拟 | 哈希 | 贪心 | 平衡树
 * ☀️ [weekly contest 338](src/main/java/weekly/wk338.java)     贪心 | 谈心 | 前缀和+二分 | 拓扑排序
 * ☀️ [weekly contest 337](src/main/java/weekly/wk337.java)     模拟 | 模拟 | 回溯 | 同余分组
@@ -54,6 +56,8 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 * 🐶 [weekly contest 290](src/main/java/weekly/wk290.java)
 * 🐭 [weekly contest 280](src/main/java/weekly/wk289.java)
 
+
+* 🐸 [biweekly contest 102](src/main/java/weekly/wkb102.java)   模拟 | 前缀和 | bfs+dfs | Dijkstra
 * 🐸 [biweekly contest 101](src/main/java/weekly/wkb101.java)   哈希 | 滑动窗口 | 并查集 | BFS
 * 🐸 [biweekly contest 100](src/main/java/weekly/wkb100.java)   四维 | 贪心 | 堆 | 二分
 * 🐸 [biweekly contest 99](src/main/java/weekly/wkb99.java)   贪心 | 递推 | 区间合并 | 换根DP
