@@ -4,9 +4,10 @@ Record leetcode contest and ideas every week, and encourage yourself to think mo
 
 leetcode url: <https://leetcode.cn/u/cctest/>
 
-
-
-* ☀️ [weekly contest 341](src/main/java/weekly/wk341.java)     模拟 | 美剧 | 贪心 | 树形dp
+* ☀️ [weekly contest 345](src/main/java/weekly/wk345.java)     模拟 | 异或 | dp | 并查集
+* ☀️ [weekly contest 344](src/main/java/weekly/wk344.java)     前缀和 | 哈希 | 模拟 | 树形dp
+* ☀️ [weekly contest 343](src/main/java/weekly/wk343.java)     模拟 | 模拟 | Dijkstra
+* ☀️ [weekly contest 341](src/main/java/weekly/wk341.java)     模拟 | 枚举 | 贪心 | 树形dp
 * ☀️ [weekly contest 340](src/main/java/weekly/wk340.java)     模拟 | 哈希 | 贪心 | bfs+优化
 * ☀️ [weekly contest 339](src/main/java/weekly/wk339.java)     模拟 | 哈希 | 贪心 | 平衡树
 * ☀️ [weekly contest 338](src/main/java/weekly/wk338.java)     贪心 | 谈心 | 前缀和+二分 | 拓扑排序
