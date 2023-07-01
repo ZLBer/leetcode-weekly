@@ -62,6 +62,8 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 * 🐶 [weekly contest 290](src/main/java/weekly/wk290.java)
 * 🐭 [weekly contest 280](src/main/java/weekly/wk289.java)
 
+
+* 🐸 [biweekly contest 107](src/main/java/weekly/wkb107.java)   暴力 | 找规律 | 记忆化搜索、dp | 滑动窗口
 * 🐸 [biweekly contest 106](src/main/java/weekly/wkb106.java)   模拟 | 滑动窗口 | 排序统计 | 贪心
 * 🐸 [biweekly contest 105](src/main/java/weekly/wkb105.java)   模拟 | 记忆化搜索 | 分类讨论 | 并查集
 * 🐸 [biweekly contest 102](src/main/java/weekly/wkb102.java)   模拟 | 前缀和 | bfs+dfs | Dijkstra
