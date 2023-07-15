@@ -148,7 +148,7 @@ public class wkb105 {
         for (int i = 2; i <= n; i++) {
             if (!isComposite[i]) {
                 primes.add(i);
-                for (int j = i * i; j >= 0 && j <= n; j += i) { // 标记该数的倍数为合数
+                for (int j = i * 2; j >= 0 && j <= n; j += i) { // 标记该数的倍数为合数
                     isComposite[j] = true;
                 }
             }
