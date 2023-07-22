@@ -4,6 +4,7 @@ Record leetcode contest and ideas every week, and encourage yourself to think mo
 
 leetcode url: <https://leetcode.cn/u/cctest/>
 
+* 🐼 [weekly contest 354](src/main/java/weekly/wk354.java)     模拟 | 滑动窗口 | 枚举 | 暴力
 * ☀️ [weekly contest 353](src/main/java/weekly/wk353.java)     贪心 | dp | dp | 差分数组
 * ☀️ [weekly contest 352](src/main/java/weekly/wk352.java)     模拟 | 质数 | 滑动窗口 | 枚举
 * ☀️ [weekly contest 350](src/main/java/weekly/wk350.java)     模拟 | 排序 | 状态压缩 | dp、记忆化
