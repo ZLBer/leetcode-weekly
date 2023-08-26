@@ -4,6 +4,7 @@ Record leetcode contest and ideas every week, and encourage yourself to think mo
 
 leetcode url: <https://leetcode.cn/u/cctest/>
 
+* 🐼 [weekly contest 359](src/main/java/weekly/wk359.java)     模拟 | 贪心 | 分组+dp | 分组+双指针
 * 🐼 [weekly contest 358](src/main/java/weekly/wk358.java)     模拟 | 链表 | 滑动窗口 | 质数分解+单调栈+快速幂
 * 🐼 [weekly contest 357](src/main/java/weekly/wk357.java)     模拟 | 贪心 | 并查集、Dijkstra | 贪心
 * 🐼 [weekly contest 356](src/main/java/weekly/wk356.java)     遍历 | 滑动窗口 | 枚举 | 数位dp
@@ -69,6 +70,7 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 * 🐭 [weekly contest 280](src/main/java/weekly/wk289.java)
 
 
+* 🐸 [biweekly contest 111](src/main/java/weekly/wkb111.java)   遍历 | 贪心+双指针 | 前缀和、dp | 数位dp
 * 🐸 [biweekly contest 110](src/main/java/weekly/wkb110.java)   遍历 | 链表 | 哈希 | 排序+dp
 * 🐸 [biweekly contest 109](src/main/java/weekly/wkb109.java)   模拟 | 模拟 | dp | 01背包/记忆化搜索
 * 🐸 [biweekly contest 108](src/main/java/weekly/wkb108.java)   模拟 | 哈希 | dp | 枚举
