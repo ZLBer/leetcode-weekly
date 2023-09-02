@@ -4,6 +4,9 @@ Record leetcode contest and ideas every week, and encourage yourself to think mo
 
 leetcode url: <https://leetcode.cn/u/cctest/>
 
+
+
+* 🐼 [weekly contest 360](src/main/java/weekly/wk360.java)     贪心 | 哈希 | 贪心+二进制 | 树上倍增
 * 🐼 [weekly contest 359](src/main/java/weekly/wk359.java)     模拟 | 贪心 | 分组+dp | 分组+双指针
 * 🐼 [weekly contest 358](src/main/java/weekly/wk358.java)     模拟 | 链表 | 滑动窗口 | 质数分解+单调栈+快速幂
 * 🐼 [weekly contest 357](src/main/java/weekly/wk357.java)     模拟 | 贪心 | 并查集、Dijkstra | 贪心
