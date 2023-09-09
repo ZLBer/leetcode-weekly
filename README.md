@@ -6,6 +6,7 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 
 
 
+* 🐼 [weekly contest 361](src/main/java/weekly/wk361.java)     枚举 | 枚举 | 前缀和 | 树上倍增+LCA
 * 🐼 [weekly contest 360](src/main/java/weekly/wk360.java)     贪心 | 哈希 | 贪心+二进制 | 树上倍增
 * 🐼 [weekly contest 359](src/main/java/weekly/wk359.java)     模拟 | 贪心 | 分组+dp | 分组+双指针
 * 🐼 [weekly contest 358](src/main/java/weekly/wk358.java)     模拟 | 链表 | 滑动窗口 | 质数分解+单调栈+快速幂
@@ -72,7 +73,7 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 * 🐶 [weekly contest 290](src/main/java/weekly/wk290.java)
 * 🐭 [weekly contest 280](src/main/java/weekly/wk289.java)
 
-
+* 🐸 [biweekly contest 112](src/main/java/weekly/wkb112.java)   哈希 | 哈希 | 哈希+滑窗 | 组合数
 * 🐸 [biweekly contest 111](src/main/java/weekly/wkb111.java)   遍历 | 贪心+双指针 | 前缀和、dp | 数位dp
 * 🐸 [biweekly contest 110](src/main/java/weekly/wkb110.java)   遍历 | 链表 | 哈希 | 排序+dp
 * 🐸 [biweekly contest 109](src/main/java/weekly/wkb109.java)   模拟 | 模拟 | dp | 01背包/记忆化搜索
