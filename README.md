@@ -6,6 +6,7 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 
 
 
+* 🐼 [weekly contest 362](src/main/java/weekly/wk362.java)     差分数组 | 贪心 | 全排列 | 
 * 🐼 [weekly contest 361](src/main/java/weekly/wk361.java)     枚举 | 枚举 | 前缀和 | 树上倍增+LCA
 * 🐼 [weekly contest 360](src/main/java/weekly/wk360.java)     贪心 | 哈希 | 贪心+二进制 | 树上倍增
 * 🐼 [weekly contest 359](src/main/java/weekly/wk359.java)     模拟 | 贪心 | 分组+dp | 分组+双指针
