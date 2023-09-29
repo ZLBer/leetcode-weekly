@@ -4,7 +4,7 @@ Record leetcode contest and ideas every week, and encourage yourself to think mo
 
 leetcode url: <https://leetcode.cn/u/cctest/>
 
-
+* 🐼 [weekly contest 364](src/main/java/weekly/wk364.java)     贪心 | 单调栈 | 单调栈 | dfs
 * 🐼 [weekly contest 363](src/main/java/weekly/wk363.java)     暴力 | 遍历 | 二分 | 质数分解
 * 🐼 [weekly contest 362](src/main/java/weekly/wk362.java)     差分数组 | 贪心 | 全排列 | 
 * 🐼 [weekly contest 361](src/main/java/weekly/wk361.java)     枚举 | 枚举 | 前缀和 | 树上倍增+LCA
