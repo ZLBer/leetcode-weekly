@@ -4,12 +4,12 @@ Record leetcode contest and ideas every week, and encourage yourself to think mo
 
 leetcode url: <https://leetcode.cn/u/cctest/>
 
-
-
+* 🐼 [weekly contest 369](src/main/java/weekly/wk369.java)     模拟 | 贪心 | dp
+* 🐼 [weekly contest 368](src/main/java/weekly/wk368.java)     前后缀 | 前后缀 | 枚举 | 记忆化搜索
 * 🐼 [weekly contest 365](src/main/java/weekly/wk365.java)     枚举 | 枚举 | 滑动窗口 | 内向基环树
 * 🐼 [weekly contest 364](src/main/java/weekly/wk364.java)     贪心 | 单调栈 | 单调栈 | dfs
 * 🐼 [weekly contest 363](src/main/java/weekly/wk363.java)     暴力 | 遍历 | 二分 | 质数分解
-* 🐼 [weekly contest 362](src/main/java/weekly/wk362.java)     差分数组 | 贪心 | 全排列 | 
+* 🐼 [weekly contest 362](src/main/java/weekly/wk362.java)     差分数组 | 贪心 | 全排列 |
 * 🐼 [weekly contest 361](src/main/java/weekly/wk361.java)     枚举 | 枚举 | 前缀和 | 树上倍增+LCA
 * 🐼 [weekly contest 360](src/main/java/weekly/wk360.java)     贪心 | 哈希 | 贪心+二进制 | 树上倍增
 * 🐼 [weekly contest 359](src/main/java/weekly/wk359.java)     模拟 | 贪心 | 分组+dp | 分组+双指针
@@ -35,7 +35,7 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 * 🐎️ [weekly contest 336](src/main/java/weekly/wk336.java)     模拟 | 排序 | 异或前缀和 | 贪心
 * 🐎️ [weekly contest 335](src/main/java/weekly/wk335.java)     模拟 | 层序遍历 | 质数分解 | 多重背包
 * 🐎️ [weekly contest 334](src/main/java/weekly/wk334.java)     前缀和 | 取模 | 贪心 | Dijkstra
-* 🐎️ [weekly contest 333](src/main/java/weekly/wk333.java)     
+* 🐎️ [weekly contest 333](src/main/java/weekly/wk333.java)
 * 🐎️ [weekly contest 332](src/main/java/weekly/wk332.java)     模拟 | 二分 | 哈希 | 前缀和
 * 🐎️ [weekly contest 331](src/main/java/weekly/wk331.java)     优先队列 | 前缀和 | 二分 | 贪心
 * 🐎️ [weekly contest 328](src/main/java/weekly/wk328.java)     遍历 | 二维差分数组 | 滑动窗口 | 树形DP
@@ -77,7 +77,8 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 * 🐶 [weekly contest 290](src/main/java/weekly/wk290.java)
 * 🐭 [weekly contest 280](src/main/java/weekly/wk289.java)
 
-
+* 🐸 [biweekly contest 116](src/main/java/weekly/wkb116.java)   暴力 | 贪心 | dp | 线段树
+* 🐸 [biweekly contest 115](src/main/java/weekly/wkb115.java)   模拟 | dp | dp
 * 🐸 [biweekly contest 114](src/main/java/weekly/wkb114.java)   哈希 | 贪心 | &运算 | 贪心+dfs
 * 🐸 [biweekly contest 113](src/main/java/weekly/wkb113.java)   遍历 | 贪心 | 哈希 | 换根dp
 * 🐸 [biweekly contest 112](src/main/java/weekly/wkb112.java)   哈希 | 哈希 | 哈希+滑窗 | 组合数
@@ -92,7 +93,7 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 * 🐸 [biweekly contest 101](src/main/java/weekly/wkb101.java)   哈希 | 滑动窗口 | 并查集 | BFS
 * 🐸 [biweekly contest 100](src/main/java/weekly/wkb100.java)   四维 | 贪心 | 堆 | 二分
 * 🐸 [biweekly contest 99](src/main/java/weekly/wkb99.java)   贪心 | 递推 | 区间合并 | 换根DP
-* 🐸 [biweekly contest 98](src/main/java/weekly/wkb98.java)   
+* 🐸 [biweekly contest 98](src/main/java/weekly/wkb98.java)
 * 🐸 [biweekly contest 97](src/main/java/weekly/wkb97.java)   模拟 | 哈希 | 滑动窗口 | DFS
 * 🐸 [biweekly contest 92](src/main/java/weekly/wkb93.java)   数组 | 排序 | 贪心 | 贪心
 * 🐸 [biweekly contest 91](src/main/java/weekly/wkb91.java)   排序 | DP | DFS | 找规律
@@ -109,7 +110,7 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 * 🐸 [biweekly contest 78](src/main/java/weekly/wkb78.java)
 * 🐯 [biweekly contest 77](src/main/java/weekly/wkb77.java)
 
-🐽 🐮 🐗 🐵 🐒 🐴  🐫    
+🐽 🐮 🐗 🐵 🐒 🐴 🐫    
 
 
 

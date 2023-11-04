@@ -29,7 +29,6 @@ public class wk365 {
         long ans = 0;
         for (int i = 0; i < nums.length; i++) {
             ans = Math.max(ans, sub * nums[i]);
-
             sub = Math.max(sub, max - nums[i]);
             max = Math.max(max, nums[i]);
         }
