@@ -4,6 +4,8 @@ Record leetcode contest and ideas every week, and encourage yourself to think mo
 
 leetcode url: <https://leetcode.cn/u/cctest/>
 
+
+* 🐼 [weekly contest 370](src/main/java/weekly/wk370.java)     有向图 | 有向图 | dfs | 树状数组or线段树
 * 🐼 [weekly contest 369](src/main/java/weekly/wk369.java)     模拟 | 贪心 | dp
 * 🐼 [weekly contest 368](src/main/java/weekly/wk368.java)     前后缀 | 前后缀 | 枚举 | 记忆化搜索
 * 🐼 [weekly contest 365](src/main/java/weekly/wk365.java)     枚举 | 枚举 | 滑动窗口 | 内向基环树
