@@ -5,6 +5,7 @@ Record leetcode contest and ideas every week, and encourage yourself to think mo
 leetcode url: <https://leetcode.cn/u/cctest/>
 
 
+* 🐼 [weekly contest 372](src/main/java/weekly/wk372.java)     模拟 | 数学 | 贪心 | 离线+二维偏序
 * 🐼 [weekly contest 371](src/main/java/weekly/wk371.java)     暴力 | 模拟 | 贪心 | 字典树+异或
 * 🐼 [weekly contest 370](src/main/java/weekly/wk370.java)     有向图 | 有向图 | dfs | 树状数组or线段树
 * 🐼 [weekly contest 369](src/main/java/weekly/wk369.java)     模拟 | 贪心 | dp
