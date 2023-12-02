@@ -4,7 +4,7 @@ Record leetcode contest and ideas every week, and encourage yourself to think mo
 
 leetcode url: <https://leetcode.cn/u/cctest/>
 
-
+* 🐼 [weekly contest 373](src/main/java/weekly/wk373.java)     模拟 | 枚举+前缀和 | 分组 | 枚举+前缀和
 * 🐼 [weekly contest 372](src/main/java/weekly/wk372.java)     模拟 | 数学 | 贪心 | 离线+二维偏序
 * 🐼 [weekly contest 371](src/main/java/weekly/wk371.java)     暴力 | 模拟 | 贪心 | 字典树+异或
 * 🐼 [weekly contest 370](src/main/java/weekly/wk370.java)     有向图 | 有向图 | dfs | 树状数组or线段树
@@ -81,7 +81,7 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 * 🐶 [weekly contest 290](src/main/java/weekly/wk290.java)
 * 🐭 [weekly contest 280](src/main/java/weekly/wk289.java)
 
-* 🐸 [biweekly contest 116](src/main/java/weekly/wkb116.java)   暴力 | 贪心 | dp | 线段树
+* 🐸 [biweekly contest 118](src/main/java/weekly/wkb118.java)   遍历 | 分组 | dp | dp+单调栈
 * 🐸 [biweekly contest 115](src/main/java/weekly/wkb115.java)   模拟 | dp | dp
 * 🐸 [biweekly contest 114](src/main/java/weekly/wkb114.java)   哈希 | 贪心 | &运算 | 贪心+dfs
 * 🐸 [biweekly contest 113](src/main/java/weekly/wkb113.java)   遍历 | 贪心 | 哈希 | 换根dp
