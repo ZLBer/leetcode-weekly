@@ -4,6 +4,8 @@ Record leetcode contest and ideas every week, and encourage yourself to think mo
 
 leetcode url: <https://leetcode.cn/u/cctest/>
 
+
+* 🐼 [weekly contest 379](src/main/java/weekly/wk379.java)     遍历 | 贪心 | 分类
 * 🐼 [weekly contest 377](src/main/java/weekly/wk377.java)     模拟 | 哈希 | floyd 
 * 🐼 [weekly contest 375](src/main/java/weekly/wk375.java)     遍历 | 快速幂 | 滑动窗口 | 合并区间
 * 🐼 [weekly contest 374](src/main/java/weekly/wk374.java)     遍历 | 贪心 | 滑动窗口 | 组合数 
@@ -84,6 +86,7 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 * 🐶 [weekly contest 290](src/main/java/weekly/wk290.java)
 * 🐭 [weekly contest 280](src/main/java/weekly/wk289.java)
 
+* 🐸 [biweekly contest 121](src/main/java/weekly/wkb121.java)   遍历 | 贪心 | 异或 | 数位dp
 * 🐸 [biweekly contest 120](src/main/java/weekly/wkb120.java)   双指针 | 贪心 | 双指针 | dfs
 * 🐸 [biweekly contest 119](src/main/java/weekly/wkb119.java)   遍历 | 贪心 | 滑动窗口 | 状态压缩+Floyd
 * 🐸 [biweekly contest 118](src/main/java/weekly/wkb118.java)   遍历 | 分组 | dp | dp+单调栈
