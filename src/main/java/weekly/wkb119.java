@@ -93,16 +93,16 @@ public class wkb119 {
                 }
             }
 
-            // Floyd计算剩下节点的最短路径
-            for (int k = 0; k < n; k++) {
-                if ((s >> k & 1) == 0) continue;
-                for (int i = 0; i < n; i++) {
-                    if ((s >> i & 1) == 0) continue;
-                    for (int j = 0; j < n; j++) {
-                        f[i][j] = Math.min(f[i][j], f[i][k] + f[k][j]);
+                    // Floyd计算剩下节点的最短路径
+                    for (int k = 0; k < n; k++) {
+                        if ((s >> k & 1) == 0) continue;
+                        for (int i = 0; i < n; i++) {
+                            if ((s >> i & 1) == 0) continue;
+                            for (int j = 0; j < n; j++) {
+                                f[i][j] = Math.min(f[i][j], f[i][k] + f[k][j]);
+                            }
+                        }
                     }
-                }
-            }
 
             //判断路径是不是符合条件
             int flag=0;
