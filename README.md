@@ -4,6 +4,9 @@ Record leetcode contest and ideas every week, and encourage yourself to think mo
 
 leetcode url: <https://leetcode.cn/u/cctest/>
 
+
+
+* 🐼 [weekly contest 381](src/main/java/weekly/wk381.java)     遍历 | 枚举 | 数学 |  贪心
 * 🐼 [weekly contest 381](src/main/java/weekly/wk381.java)     贪心 | 贪心 | floyd
 * 🐼 [weekly contest 380](src/main/java/weekly/wk380.java)     遍历 | kmp | 二分+数位dp | kmp+二分
 * 🐼 [weekly contest 379](src/main/java/weekly/wk379.java)     遍历 | 贪心 | 分类
