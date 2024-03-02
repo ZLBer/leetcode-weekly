@@ -6,7 +6,9 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 
 
 
-* 🐼 [weekly contest 381](src/main/java/weekly/wk381.java)     遍历 | 枚举 | 数学 |  贪心
+
+* 🐼 [weekly contest 386](src/main/java/weekly/wk386.java)     遍历 | 贪心 | 二分 |  二分
+* 🐼 [weekly contest 382](src/main/java/weekly/wk382.java)     遍历 | 枚举 | 数学 |  贪心
 * 🐼 [weekly contest 381](src/main/java/weekly/wk381.java)     贪心 | 贪心 | floyd
 * 🐼 [weekly contest 380](src/main/java/weekly/wk380.java)     遍历 | kmp | 二分+数位dp | kmp+二分
 * 🐼 [weekly contest 379](src/main/java/weekly/wk379.java)     遍历 | 贪心 | 分类
