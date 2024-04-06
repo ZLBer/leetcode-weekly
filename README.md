@@ -6,6 +6,7 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 
 
 
+* 🐼 [weekly contest 391](src/main/java/weekly/wk391.java)     遍历 | 模拟 | 滑动窗口 | 数学
 * 🐼 [weekly contest 390](src/main/java/weekly/wk390.java)     滑动窗口 | 枚举 | 懒删除 | 字典树
 * 🐼 [weekly contest 387](src/main/java/weekly/wk387.java)     模拟 | 二维前缀和 | 模拟 | 树状数组
 * 🐼 [weekly contest 386](src/main/java/weekly/wk386.java)     遍历 | 贪心 | 二分 |  二分
@@ -93,7 +94,7 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 * 🐶 [weekly contest 290](src/main/java/weekly/wk290.java)
 * 🐭 [weekly contest 280](src/main/java/weekly/wk289.java)
 
-* 🐸 [biweekly contest 126](src/main/java/weekly/wkb126.java)   模拟 | 堆、排序 | 堆、贪心 | DP(背包)
+* 🐸 [biweekly contest 127](src/main/java/weekly/wkb127.java)   前缀和 | 滑动窗口 | 记忆化搜索
 * 🐸 [biweekly contest 125](src/main/java/weekly/wkb125.java)   遍历 | 堆 | 乘法原理 | 贪心、DP
 * 🐸 [biweekly contest 122](src/main/java/weekly/wkb122.java)   滑动窗口+双推 | 分组循环 | 贪心 | 滑动窗口+双堆
 * 🐸 [biweekly contest 121](src/main/java/weekly/wkb121.java)   遍历 | 贪心 | 异或 | 数位dp
