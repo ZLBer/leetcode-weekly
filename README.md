@@ -95,6 +95,8 @@ leetcode url: <https://leetcode.cn/u/cctest/>
 * 🐶 [weekly contest 290](src/main/java/weekly/wk290.java)
 * 🐭 [weekly contest 280](src/main/java/weekly/wk289.java)
 
+
+* 🐸 [biweekly contest 129](src/main/java/weekly/wkb129.java)   遍历 | 枚举 | 记忆化搜索
 * 🐸 [biweekly contest 127](src/main/java/weekly/wkb127.java)   前缀和 | 滑动窗口 | 记忆化搜索
 * 🐸 [biweekly contest 125](src/main/java/weekly/wkb125.java)   遍历 | 堆 | 乘法原理 | 贪心、DP
 * 🐸 [biweekly contest 122](src/main/java/weekly/wkb122.java)   滑动窗口+双推 | 分组循环 | 贪心 | 滑动窗口+双堆
