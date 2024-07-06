@@ -4,7 +4,7 @@ Record leetcode contest and ideas every week, and encourage yourself to think mo
 
 leetcode url: <https://leetcode.cn/u/cctest/>
 
-
+* 🐼 [weekly contest 404](src/main/java/weekly/wk404.java)     遍历 | dp | dp | 树
 * 🐼 [weekly contest 403](src/main/java/weekly/wk403.java)     排序 | 模拟 | dp 
 * 🐼 [weekly contest 402](src/main/java/weekly/wk402.java)     哈希 | 哈希 | dp | 树状数组
 * 🐼 [weekly contest 401](src/main/java/weekly/wk401.java)     暴力 | 前缀和 | 0-1背包 | bitset
